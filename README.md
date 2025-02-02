@@ -18,8 +18,9 @@ Our solution:
 ### Results
 
 Our implementation has successfully factored semiprime numbers of increasing bit sizes.    
-We have used 4945 gate operations and 48 qubits using the Quantum Rings Simulator to succesfully find the factor of a 16 bit semiprime.   
-The runtime for the search took about 637 seconds.
+<!-- We have used 4945 gate operations and 48 qubits using the Quantum Rings Simulator to succesfully find the factor of a 16 bit semiprime.    -->
+we just found 18 bits semiprime
+<!-- The runtime for the search took about 637 seconds. -->
 
 
 Acknowledgments
